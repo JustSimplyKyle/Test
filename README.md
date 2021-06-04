@@ -60,8 +60,6 @@
 		<td>悠遊卡／一卡通</td>
 		<td></td>
 		<td>雨具／防晒用品</td>
-		<td></td>
-		<td></td>
 	</tr>
 </table>
 
